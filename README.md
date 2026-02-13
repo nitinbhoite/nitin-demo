@@ -1,4 +1,4 @@
 # nitin-demo
 This is my first Git Repository.
 <br>
-Author - Nitin Bhoite
+Author - Nitin D. Bhoite
